@@ -40,10 +40,10 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "/images/favicon.png",
-        width: 256,
-        height: 256,
-        alt: "NORTCEL MARKETING - Agencia de Marketing Digital",
+        url: "/images/NORTCEL MARKETING SL.png",
+        width: 1200,
+        height: 630,
+        alt: "NORTCEL MARKETING SL - Agencia de Marketing Digital",
       },
     ],
   },
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "NORTCEL MARKETING | Agencia de Marketing Digital",
     description: "Estrategias de marketing digital personalizadas que maximizan tu presencia online y aumentan tus conversiones.",
-    images: ["/images/favicon.png"],
+    images: ["/images/NORTCEL MARKETING SL.png"],
     creator: "@nortcelmarketing",
   },
   robots: {
