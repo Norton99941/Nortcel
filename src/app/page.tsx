@@ -84,9 +84,6 @@ export default function Home() {
           </div>
           <div className="container mx-auto max-w-7xl px-4 md:px-6 relative z-10">
             <div className="flex flex-col items-center space-y-4 text-center">
-              <div className="mb-6">
-                <Logo width={300} height={95} />
-              </div>
               <div className="space-y-2">
                 <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl">
                   Impulsamos Tu Negocio en el Mundo Digital
