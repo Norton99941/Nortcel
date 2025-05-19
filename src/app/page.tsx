@@ -156,11 +156,11 @@ export default function Home() {
             <Card className="border-0 bg-background/50 backdrop-blur-sm">
               <CardContent className="pt-6">
                 <div className="relative">
-                  <span className="absolute left-0 top-0 text-6xl text-primary/20">"</span>
+                  <span className="absolute left-0 top-0 text-6xl text-primary/20">&quot;</span>
                   <blockquote className="px-6 text-xl italic">
                     Desde que comenzamos a trabajar con MarketingDigital, nuestro tráfico web ha aumentado un 150% y las conversiones han crecido un 75%. Su equipo no solo entiende perfectamente nuestro negocio, sino que ha desarrollado estrategias que realmente funcionan para nuestro mercado.
                   </blockquote>
-                  <span className="absolute bottom-0 right-0 text-6xl text-primary/20">"</span>
+                  <span className="absolute bottom-0 right-0 text-6xl text-primary/20">&quot;</span>
                 </div>
               </CardContent>
               <CardFooter className="flex flex-col space-y-1 text-center">

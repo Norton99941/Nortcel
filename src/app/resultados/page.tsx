@@ -144,7 +144,7 @@ export default function Resultados() {
                       </div>
                     </div>
                     <div className="border-t pt-4">
-                      <blockquote className="italic mb-2">"{caso.testimonio}"</blockquote>
+                      <blockquote className="italic mb-2">&quot;{caso.testimonio}&quot;</blockquote>
                       <p className="text-sm font-medium">{caso.autor}</p>
                       <p className="text-xs text-muted-foreground">{caso.cargo}</p>
                     </div>
@@ -174,7 +174,7 @@ export default function Resultados() {
             <Card className="border-0 bg-background/50 backdrop-blur-sm">
               <CardContent className="pt-6">
                 <div className="relative">
-                  <span className="absolute left-0 top-0 text-6xl text-primary/20">"</span>
+                  <span className="absolute left-0 top-0 text-6xl text-primary/20">&quot;</span>
                   <blockquote className="px-6 text-lg italic">
                     El equipo de MarketingDigital ha sido clave para el crecimiento de nuestra empresa online. Su enfoque estratégico y análisis detallado nos ha permitido triplicar nuestra visibilidad en buscadores.
                   </blockquote>
@@ -189,7 +189,7 @@ export default function Resultados() {
             <Card className="border-0 bg-background/50 backdrop-blur-sm">
               <CardContent className="pt-6">
                 <div className="relative">
-                  <span className="absolute left-0 top-0 text-6xl text-primary/20">"</span>
+                  <span className="absolute left-0 top-0 text-6xl text-primary/20">&quot;</span>
                   <blockquote className="px-6 text-lg italic">
                     Las campañas de redes sociales diseñadas han conseguido un engagement sin precedentes. Hemos visto un aumento del 200% en interacción y un 80% en conversiones desde que trabajamos juntos.
                   </blockquote>
@@ -204,7 +204,7 @@ export default function Resultados() {
             <Card className="border-0 bg-background/50 backdrop-blur-sm">
               <CardContent className="pt-6">
                 <div className="relative">
-                  <span className="absolute left-0 top-0 text-6xl text-primary/20">"</span>
+                  <span className="absolute left-0 top-0 text-6xl text-primary/20">&quot;</span>
                   <blockquote className="px-6 text-lg italic">
                     El ROI de las campañas ha superado todas nuestras expectativas. La capacidad de MarketingDigital para optimizar el presupuesto y maximizar resultados es realmente impresionante.
                   </blockquote>

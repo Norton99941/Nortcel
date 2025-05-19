@@ -1,5 +1,4 @@
 import Image from "next/image";
-import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
@@ -7,12 +6,10 @@ import { Textarea } from "@/components/ui/textarea";
 import {
   Search,
   Users,
-  BarChart2,
   Mail,
   Megaphone,
   Pen,
-  Globe,
-  Smartphone
+  Globe
 } from "lucide-react";
 
 export default function Servicios() {
