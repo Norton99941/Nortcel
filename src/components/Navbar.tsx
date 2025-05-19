@@ -53,9 +53,6 @@ export function Navbar() {
               </Link>
             </motion.div>
           ))}
-          <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
-            <Button size="sm">Consulta Gratis</Button>
-          </motion.div>
         </nav>
 
         {/* Mobile menu button */}
@@ -87,7 +84,6 @@ export function Navbar() {
               {item.name}
             </Link>
           ))}
-          <Button size="sm" className="w-full">Consulta Gratis</Button>
         </div>
       </div>
     </motion.header>
