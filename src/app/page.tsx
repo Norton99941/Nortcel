@@ -4,7 +4,6 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
 import { Search, Users, BarChart2, Mail } from "lucide-react";
 import { Metadata } from "next";
-import { Logo } from "@/components/seo/Logo";
 import { JsonLd } from "@/components/seo/JsonLd";
 
 // Metadatos específicos para la página de inicio
