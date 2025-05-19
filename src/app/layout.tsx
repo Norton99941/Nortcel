@@ -8,8 +8,54 @@ import { Toaster } from "@/components/ui/toaster";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "NORTCEL MARKETING",
-  description: "Transformamos negocios con estrategias digitales efectivas",
+  title: "NORTCEL MARKETING | Agencia de Marketing Digital",
+  description: "Agencia especializada en estrategias de marketing digital personalizadas que maximizan tu presencia online y aumentan tus conversiones. SEO, SEM, Redes Sociales y más.",
+  keywords: ["marketing digital", "SEO", "publicidad digital", "redes sociales", "email marketing", "agencia marketing", "estrategia digital"],
+  authors: [{ name: "NORTCEL MARKETING", url: "https://nortcelmarketing.com" }],
+  creator: "NORTCEL MARKETING",
+  publisher: "NORTCEL MARKETING",
+  formatDetection: {
+    email: false,
+    address: false,
+    telephone: false,
+  },
+  metadataBase: new URL("https://nortcelmarketing.com"),
+  alternates: {
+    canonical: "/",
+  },
+  openGraph: {
+    title: "NORTCEL MARKETING | Transformamos tu Negocio en el Mundo Digital",
+    description: "Estrategias de marketing digital personalizadas que impulsan tu presencia online, aumentan conversiones y mejoran el ROI de tu inversión.",
+    url: "https://nortcelmarketing.com",
+    siteName: "NORTCEL MARKETING",
+    locale: "es_ES",
+    type: "website",
+    images: [
+      {
+        url: "/images/nortcel-og-image.jpg",
+        width: 1200,
+        height: 630,
+        alt: "NORTCEL MARKETING - Agencia de Marketing Digital",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "NORTCEL MARKETING | Agencia de Marketing Digital",
+    description: "Estrategias de marketing digital personalizadas que maximizan tu presencia online y aumentan tus conversiones.",
+    images: ["/images/nortcel-og-image.jpg"],
+    creator: "@nortcelmarketing",
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
 };
 
 export default function RootLayout({
