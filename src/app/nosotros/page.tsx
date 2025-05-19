@@ -101,12 +101,12 @@ export default function Nosotros() {
                   Nuestra Historia
                 </h2>
                 <p className="text-muted-foreground md:text-lg">
-                  MarketingDigital nació en 2013 con una clara misión: ayudar a empresas a navegar exitosamente por el cambiante mundo del marketing digital.
+                  Los fundadores de NORTCEL MARKETING tienen una amplia experiencia desde 2013 con una clara misión: ayudar a empresas a navegar exitosamente por el cambiante mundo del marketing digital.
                 </p>
               </div>
               <div className="space-y-4">
                 <p>
-                  Lo que comenzó como un pequeño equipo de consultores apasionados por el marketing digital, ha crecido hasta convertirse en una agencia de referencia en el sector, con un equipo multidisciplinar de 15 especialistas.
+                  Lo que comenzó como un pequeño equipo de consultores apasionados por el marketing digital, ha crecido hasta convertirse en una agencia de referencia en el sector, con un equipo multidisciplinar.
                 </p>
                 <p>
                   A lo largo de nuestra trayectoria, hemos trabajado con más de 200 clientes de diversos sectores, desde startups hasta grandes corporaciones, ayudándoles a desarrollar estrategias efectivas que impulsan su crecimiento en el entorno digital.

@@ -110,7 +110,8 @@ export default function Contacto() {
           <div className="flex flex-col items-center space-y-4 text-center">
             <div className="space-y-2">
               <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl">
-                Contacta con Nuestro Equipo de Marketing Digital
+              Contacto con nuestro equipo
+              de Marketing Digital
               </h1>
               <p className="mx-auto max-w-[700px] text-muted-foreground md:text-xl">
                 Responderemos a tu consulta en menos de 24 horas. Nuestros expertos están listos para asesorarte.
